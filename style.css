@@ -1,0 +1,45 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.topo{
+    background-image: linear-gradient(50deg,#ff0000,#961515);
+    height: 100vh;
+}
+
+.link{
+    position: absolute;
+    top: 96.71%;
+    left: 95%;
+    color: #231818;
+}
+.amor{
+    height: 60px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.btn{
+position: relative;
+top: 250px;
+left: 5px;
+font-size: 17px;
+border-style: solid;
+border-color: aliceblue;
+padding: 1px;
+}
+.btn:hover{
+    border-color: black;
+    cursor: pointer;
+}
+.btn1{
+    position: relative;
+top: 250px;
+left: 5px;
+font-size: 17px;
+padding: 2px;
+}
